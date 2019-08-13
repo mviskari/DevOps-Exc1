@@ -1,4 +1,4 @@
-* Uutta dataa harjoituksen merkeissä.
+* Uutta dataa...
 * Bullet point
 1. Luettelo
 2. Luettelo 2
